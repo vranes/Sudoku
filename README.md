@@ -13,3 +13,5 @@ The implemented strateges are:
 
 This is a simple GUI solution - just start the application, enter your Sudoku puzzle in the fields and press Solve!
 
+It is written in Java using JavaFX for GUI
+
