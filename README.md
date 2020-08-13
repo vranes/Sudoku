@@ -11,5 +11,5 @@ The implemented strateges are:
 
 (new strategies will be added one by one once completed)
 
-This is a simple GUI solution, simply start the application, enter the Sudoku puzzle and press Solve!
+This is a simple GUI solution - just start the application, enter your Sudoku puzzle in the fields and press Solve!
 
