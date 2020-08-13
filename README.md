@@ -10,3 +10,6 @@ The implemented strateges are:
 * X-Wing
 
 (new strategies will be added one by one once completed)
+
+This is a simple GUI solution, simply start the application, enter the Sudoku puzzle and press Solve!
+
